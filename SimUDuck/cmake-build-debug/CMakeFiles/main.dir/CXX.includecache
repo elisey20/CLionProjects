@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/Duck.h
+iostream
+-
+IFly.h
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/IFly.h
+IQuack.h
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/IQuack.h
+
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/IFly.h
+iostream
+-
+
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/IQuack.h
+iostream
+-
+
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/main.cpp
+Duck.h
+/cygdrive/d/Users/elise/CLionProjects/SimUDuck/Duck.h
+

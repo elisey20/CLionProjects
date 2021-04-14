@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PolymorphismDemo.dir/main.cpp.o  -o PolymorphismDemo.exe -Wl,--out-implib,libPolymorphismDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
