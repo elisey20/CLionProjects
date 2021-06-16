@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/assemblerLab1.dir/main.cpp.o -o assemblerLab1 

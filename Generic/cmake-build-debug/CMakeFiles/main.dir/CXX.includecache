@@ -8,9 +8,13 @@
 
 ../source/methods.h
 
-/cygdrive/d/Users/elise/CLionProjects/Generic/main.cpp
+/home/elisey/CLionProjects/Generic/main.cpp
 iostream
 -
 methods.h
-/cygdrive/d/Users/elise/CLionProjects/Generic/methods.h
+/home/elisey/CLionProjects/Generic/methods.h
+
+/home/elisey/CLionProjects/Generic/source/methods.cpp
+iostream
+-
 
